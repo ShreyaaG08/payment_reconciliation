@@ -1,0 +1,3 @@
+settlement_month,platform_total_raw,platform_total_rounded,platform_count,bank_total_raw,bank_total_rounded,bank_count,raw_diff,rounded_diff
+2026-03,7449.85,7450.0,30.0,7049.848,7049.98,31,400.002,400.02
+2026-04,0.0,0.0,0.0,499.995,500.0,1,-499.995,-500.0
